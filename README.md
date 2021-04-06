@@ -9,9 +9,9 @@ Réalisation d’un Robot (hauteur inférieure à 30 cm) capable de cartographie
 
 Le code partagé correspond au programme de suivi de trajectoire que doit effectuer le 2eme robot, j'ai travaillé dessus avec un camarade de classe @Nissior (pseudo sur github).
 Le rapport contient un compte rendu des activités et tâches menées par notre groupe composé de:
-CHAUVREAU Nicolas (@Nissior sur github)
-DUPONT Cédric 
-KAMBOU TCHAKAM Danielle Lyne (moi)
-REMUSATI Héloïse 
+CHAUVREAU Nicolas (@Nissior sur github), 
+DUPONT Cédric,
+KAMBOU TCHAKAM Danielle Lyne (moi),
+REMUSATI Héloïse,
 THOMAS Loïc
 
